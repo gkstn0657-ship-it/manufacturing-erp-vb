@@ -3,6 +3,17 @@
 Claude AI를 활용하여 만든 VB.NET WinForms 기반의 자동차 부품 제조 현장용 ERP 시스템입니다.
 생소한 자동차 부품 제조업 도메인에 대해서 질문과 검증으로 제작한 ERP 시스템입니다. AI 활용 역량 향상을 목적으로 제작하였습니다.
 
+## 실행 화면
+
+![1](images/1.PNG)
+![2](images/2.PNG)
+![3](images/3.PNG)
+![4](images/4.PNG)
+![5](images/5.PNG)
+![6](images/6.PNG)
+![7](images/7.PNG)
+![8](images/8.PNG)
+
 ---
 
 ## 실행 방법
